@@ -1,0 +1,14 @@
+add routes +++
+add 404 +++
+add login +++
+add firebase +++
+add update expense/budget data +++
+add filter month / year / expenses / type
+add visual data (diagrams, graphics)
+memo
+useCallBack
+useMemo
+Portals
+mobile adaptive
+redirect google firebase mobile
+get rid of mobile menu when signing in
